@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+ <main>
+     <h1>My favorites games</h1>
+     <p>The video games are one of my favorite things because they help me have fun and pass time.I like play different types of games and descovering new experiences.On this page, I will show some of my favorite games and why I like them so much.</p>
+     <section>
+         <h2>Roblox</h2>
+         <p>Roblox is one of my favorite games because it lets me play many different types of games created by other players. I like it because I can explore, have fun, and play with friends.</p>
+         <iframe src="https://www.youtube.com/embed/eAvXhNlO-rA" title="Roblox trailer" height="300" width="500"></iframe>
+     </section>
+     <section>
+         <h2>Fornite</h2>
+         <p>Fortnite is a very fun and competitive game where I can play with other people online. I enjoy its fast gameplay and the different skins and events.</p>
+         <iframe src="https://www.youtube.com/embed/qpKtzf5fXn4" title="Fortnite trailer" height="280" width="500"></iframe>
+     </section>
+     <section>
+         <h2>Dragon Ball Xenoverse 2</h2>
+         <p>Dragon Ball Xenoverse 2 is one of my favorite games because I love Dragon Ball.I like creating my own character and fighting in epic battles.</p>
+         <iframe src="https://www.youtube.com/embed/JnUbg-9v_bE" title="Trailer Dragon Ball Xenoverse 2" height="280" width="500"></iframe>
+     </section>
+ </main>
+</body>
+</html>
+
+** end of index.html **
+
